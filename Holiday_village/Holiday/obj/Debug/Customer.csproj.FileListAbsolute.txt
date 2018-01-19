@@ -1,0 +1,6 @@
+c:\users\new\documents\visual studio 2013\Projects\Holiday_village\Customer\bin\Debug\Customer.exe.config
+c:\users\new\documents\visual studio 2013\Projects\Holiday_village\Customer\bin\Debug\Customer.exe
+c:\users\new\documents\visual studio 2013\Projects\Holiday_village\Customer\bin\Debug\Customer.pdb
+c:\users\new\documents\visual studio 2013\Projects\Holiday_village\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+c:\users\new\documents\visual studio 2013\Projects\Holiday_village\Customer\obj\Debug\Customer.exe
+c:\users\new\documents\visual studio 2013\Projects\Holiday_village\Customer\obj\Debug\Customer.pdb
